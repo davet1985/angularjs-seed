@@ -1,5 +1,7 @@
 # AngularJS seed
 
+[![Build Status](https://travis-ci.org/davet1985/angularjs-seed.svg?branch=master)](https://travis-ci.org/davet1985/angularjs-seed)
+
 ## Development
 
 ### Local
